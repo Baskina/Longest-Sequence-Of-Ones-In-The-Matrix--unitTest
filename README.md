@@ -1,3 +1,5 @@
 # Longest-Sequence-Of-Ones-In-The-Matrix--unitTest
 unitTest and parse
-example of BDD test and parse of string
+
+Found the longest sequence of ones either rows or columns at the given binary matrix.
+Used BDD test and parsing of string.
